@@ -94,3 +94,11 @@ Projenin başında aşağıdaki kütüphaneler kullanılmaktadır:
 
 ## Sonuç
 Bu proje sonucunda, müşteri yorumları üzerinde yapılan duygu analizi, ürün geliştirme süreçlerine önemli katkılarda bulunmuştur. Elde edilen Random Forest modeli, test verisi üzerinde %89.88 doğruluk oranı ile etkili bir performans sergilemiştir.
+
+# İletişim
+Sorularınız veya önerileriniz için aşağıdaki iletişim bilgilerini kullanabilirsiniz:
+
+E-posta: baydemirhatice@hotmail.com
+
+Linkedln: https://www.linkedin.com/in/haticebaydemir/
+
